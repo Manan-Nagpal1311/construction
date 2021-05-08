@@ -1,0 +1,24 @@
+.modal-header,.close
+{
+    color: white;
+    background-color:#37517e;
+}
+.close:hover
+{
+    color:turquoise;
+}
+.modal-footer
+{
+    background-color: #37517e;
+}
+.signup,.btn
+{
+    color: white; 
+    background-color: transparent; 
+    border-color: transparent; 
+    cursor: default;
+}
+.btn:hover,.signup:hover
+{
+    color: #47b2e4;
+}
